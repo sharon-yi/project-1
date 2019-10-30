@@ -182,7 +182,6 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
   overflow: hidden;
 }
 
-
 /* ----- MY STYLING STARTS HERE ----- */
 
 /* --- GENERIC STYLES --- */
@@ -710,9 +709,8 @@ input[type=email] {
   .copyright {
     font-size: 1.4rem;
   }
-  .links li{
+  .links li {
     margin: 0 auto;
     width: 200px;
   }
-
 }
